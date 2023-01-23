@@ -1,0 +1,253 @@
+<resources>
+    <string name="app_name">Chie Japanese Language</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="school">Chie Japanese Language Online Tutorial Services</string>
+    <string name="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+    <string name="jlpt">What is JLPT?</string>
+    <string name="jlpt_text">The Japanese-Language Proficiency Test (日本語能力試験, Nihongo Nōryoku Shiken), or JLPT, is a standardized criterion-referenced test to evaluate and certify Japanese language proficiency for non-native speakers, covering language knowledge, reading ability, and listening ability.[1] The test is held twice a year in Japan and selected countries (on the first Sunday of July and December), and once a year in other regions (on the first Sunday of December)</string>
+    <string name="jft">What is JFT?</string>
+    <string name="jft_text">JFT-Basic, also called JFT, stands for “Japan Foundation Test” which is a Japanese standardized test. JFT-Basic is not only used to measure one’s Japanese proficiency but it’s also largely used to demonstrate one’s Japanese proficiency during the job hunting process or when their applying for the Specified Skilled Worker visa. JFT-Basic aims to assess whether the test-taker has sufficient Japanese language proficiency when engaging in daily conversations to a certain degree and handling day-to-day life situations without any difficulties.</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_hiragana">Hiragana</string>
+    <string name="menu_katakana">Katakana</string>
+    <string name="menu_kanji">Kanji</string>
+    <string name="menu_about">Kanji</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_kanji_study">KanjiStudy</string>
+
+
+    <!--Text Hiragana-->
+    <string name="g_txt">Gujūon</string>
+    <string name="d_txt">Dakuon</string>
+    <string name="hd_txt">Han-Dakuon</string>
+    <string name="foreign_txt">Additional letters for foreign sounds</string>
+    <string name="yoon_txt">Yōon</string>
+    <string name="sokuon_txt">Sokuon</string>
+
+    <!--Text Katakana-->
+    <string name="g_k_txt">Gujūon</string>
+    <string name="d_k_txt">Dakuon</string>
+    <string name="hd_k_txt">Han-Dakuon</string>
+    <string name="foreign_k_txt">Additional letters for foreign sounds</string>
+    <string name="yoon_k_txt">Yōon</string>
+    <string name="sokuon_k_txt">Sokuon</string>
+
+
+    <!--Img Descr Hiragana-->
+    <string name="g_dsc">Gujūon</string>
+    <string name="d_dsc">Dakuon</string>
+    <string name="hd_dsc">Han-Dakuon</string>
+    <string name="foreign_dsc">Additional letters for foreign sounds</string>
+    <string name="yoon_dsc">Yōon</string>
+    <string name="yoon2_dsc">Yōon</string>
+    <string name="sokuon_dsc">Sokuon</string>
+    <!--Img Descr Katakana-->
+    <string name="g_k_dsc">Gujūon</string>
+    <string name="d_k_dsc">Dakuon</string>
+    <string name="hd_k_dsc">Han-Dakuon</string>
+    <string name="foreign_k_dsc">Additional letters for foreign sounds</string>
+    <string name="yoon_k_dsc">Yōon</string>
+    <string name="yoon2_k_dsc">Yōon</string>
+    <string name="sokuon_k_dsc">Sokuon</string>
+
+    <!--Strings Hiragana-->
+    <string name="gj">In Japanese, syllables are organized in the form of a table (5 x 10). This table is called gojūon-zu (literally means table of 50 sounds).To describe these sounds, Hiragana and Katakana alphabets are used.Letters い, う and え appear more than once in the table. These 5 duplicates(gray colored) are usually skipped or ignored.Another syllable ん is included. It doesn\'t belong to any row or column.In total, 46 letters (45+1) are counted as gojūon (50 sounds).</string>
+    <string name="dk">Dakuon literally means turbid or murky sound. It is the voiced sound of か [ka], さ [sa], た [ta] and は [ha]-row syllables.Dakuon is indicated with two small dots.Pronunciation of じ and ぢ, ず and づ are the same.</string>
+    <string name="hd">Handakuon literally means half-turbid or half-murky sound. Handakuon is indicated with a small circle.</string>
+    <string name="foreign">These additional letters are invented in modern era to describe the sounds of foreign language.Note: Foreign words are usually written in Katakana. These additional Hiragana letters are rarely used.</string>
+    <string name="y">Yōon is a combination of the consonant of i-column syllables and ya, yu or yo. For example, k + ya = kya. Yōon is described by i-column letters plus small や, ゆ or よ. For example, き + ゃ = きゃ [kya]. Pronunciation of じゃ, じゅ, じょ and ぢゃ, ぢゅ, ぢょ are the same.</string>
+    <string name="s">Sokuon is a pause (no sound) between two syllables. Sokuon is described by small つ.</string>
+
+    <!--Strings Katakana-->
+    <string name="gj_k">Traditionally, sounds of basic syllables are organized in the form of a table (5 x 10). This table is called gojūon-zu (literally means table of 50 sounds). To describe these sounds, Katakana and Hiragana alphabets are used. Letters イ, ウ and エ appear more than once in the table. These 5 duplicates (colored in gray) are usually skipped or ignored. Another syllable ン is included. It doesn\'t belong to any row or column. In total, 46 letters (45+1) are counted as gojūon (50 sounds).</string>
+    <string name="dk_k">Dakuon literally means turbid or murky sound. It is the voiced sound of カ[ka], サ[sa], タ[ta] and ハ[ha]-row syllables.Dakuon is indicated with two small dots. Pronunciation of ジ[ji] and ヂ[ji], ズ[zu] and ヅ[zu] are the same.Letters ヂ and ヅ are rarely used.</string>
+    <string name="hd_k">Handakuon literally means half-turbid or half-murky sound. Handakuon is indicated with a small circle.</string>
+    <string name="foreign_k">These additional letters are invented in modern era to describe the sound of foreign languages.</string>
+    <string name="y_k">Yōon is a combination of the consonant of i-column syllables and ya, yu or yo. For example, k + ya = kya.Yōon is described by i-column letters associated with ャ(small ya), ュ(small yu) or ョ(small yo). For example, キ + ャ = キャ[kya].Pronunciation of ジャ[ja], ジュ[ju], ジョ[jo] and ヂャ[ja], ヂュ[ju], ヂョ[jo] are the same.Letters ヂャ, ヂュ, ヂョ are rarely used.</string>
+    <string name="s_k">Sokuon is a pause (no sound) between two syllables. Sokuon is described by ッ(small ツ[tsu]).</string>
+    <string name="title_activity_lesson1_grammar">Lesson1_Grammar_Activity</string>
+
+    <string name="part1">は – wa - は (wa) follows the topic the speaker wants to talk about. Therefore, wa（は）is often called topic marking particle. The “topic” is often the grammatical subject, but can be anything (including the grammatical object, and sometimes the verb), and it may also follow some other particles.</string>
+    <string name="part2">に – ni - に (ni) indicates a place toward where someone or something moves. It is preceded by the name of the place and followed by a verb which indicates a moving action such as iku (行く) “to go.” It is also used with giving/receiving verbs and can then mean “from”. In the case of passive verbs, it marks the grammatical agent, making it the same as “by” in English. (i.e. “my wallet was stolen by my brother.” ). に is also used to indicate the location of existence when combined with the verbs いる or ある, making it the Japanese version of “at” (in some instances).</string>
+    <string name="part3">で – de - で (de) is used to indicate location of an action. The performer of the action (the subject) is followed by either of the particles wa or ga, and the place is followed by de. However it can’t be used with with the verbs いる or ある.</string>
+    <string name="part4">が – ga - が (ga) marks the grammatical subject of a sentence when it is first introduced to a conversation. It can also be used to join sentences, like the word “but”, but that が is technically a different word. The particle が can also be used to emphasize the subject or distinguish it from others. While は is used when a question word (who, where, etc) comes after the topic in the sentence (レストランはどこですか。), we use the particle が when the question word is the subject or part of it.</string>
+    <string name="part5">の – no - の (no) indicates possession (functioning like the English “apostrophe-S”). In the structure A no B, B belongs to A, however, many nouns act like adjectives when followed by no. It directly follows nouns and noun phrases.</string>
+    <string name="part6">から – kara - から (kara) indicates the source of an object or action. This starting position may be either a point in space (in which case it is translated as “from”), or a point in time (in which case it is translated as “since” or “after”).</string>
+    <string name="part7">まで – made - まで (made) indicates that an action/effect extends or reaches a specified limit or a point in time or space. It is therefore equivalent to the English expression “until.”</string>
+    <string name="part8">と – to - と (to) is used to join nouns together into an exhaustive list that functions as a single noun: ”with”, “and”. It’s also the particle used to indicate a direct quote (from someone’s mind or speech), functioning like quotation marks in English.</string>
+    <string name="part9">や – ya - や (ya) is used in the same way as the first sense of と, but the list is not exhaustive. It means “such things as A, B, and C”.</string>
+    <string name="pat">Pattern 1\n If verbs end with -aru, they are intransitive verbs.They become transitive verbs by replacing -aru with eru.</string>
+    <string name="pat2">Pattern 2\n If verbs end with -reru, they are intransitive verbs.They become transitive verbs by replacing -reru with su.</string>
+    <string name="pat3">Pattern 3\nIf verbs end with -reru, they are intransitive verbs. They become transitive verbs by replacing -reru with ru.</string>
+    <string name="pat4">Pattern 4\n If verbs end with -areru, they are intransitive verbs.They become transitive verbs by replacing -areru with u.</string>
+    <string name="pat5">Pattern 5\n If verbs end with -su, they are transitive verbs. They become intransitive verbs by replacing -su with ru.</string>
+    <string name="pat6">Pattern 6\n If verbs end with -asu, they are transitive verbs. They become intransitive verbs by replacing -asu with eru.</string>
+    <string name="pat7">Pattern 7\nIf verbs end with -asu, they are transitive verbs.They become intransitive verbs by replacing -asu with u.</string>
+    <string name="pat8">Pattern 8\nIf verbs end with -osu, they are transitive verbs. They become intransitive verbs by replacing -osu with iru.</string>
+    <string name="particle2">These tiny connecting words map out a sentence in terms which aspect refers to what, and their relationship. While there is no easy way to learn Japanese particles, mastering their usage opens up endless possibilities for sentence construction.</string>
+    <string name="particle">Particles are tiny words that signify the role of the word they come after. So, when you say a sentence, every sentence has a subject, a verb, and often an object too. Depending on the context, Japanese uses different particles to signify these.</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+
+
+    <string name="kanji_1">It is possible to write everything in hiragana or katakana since both scripts cover the entity of sounds of the Japanese language, although this is not very practical due to the high number of words having the same pronunciation but different meanings. All characters are written one by one and in the same size. \n\n There are no spaces between different words, which feels a little bit unusual for most foreigners. It takes time to get used to this and easily distinguish different words. It is important to write the strokes in the correct order and directions to give the characters the right shape.\n\n The reason why becomes obvious when practicing with a brush pen1, which is very much recommended for beginners. Japanese writing is made in two directions. Horizontal writing (yokogaki) is from the left to the right as in western style. Traditional writing (tategaki) is vertical starting from the right top and ending at the left bottom. A book printed in tategaki opens from what Westerners would call the back, while a book printed in yokogaki opens from what traditionally in Japan would have been considered the back.
+    </string>
+    <string name="kanji_1_text">1 Stroke\n Meaning: One \n Onyomi: Ichi / Itsu [いち/いつ]\nKunyomi: Hito [ひと]\n Vocabulary: 一口 - ひとくち -\n hitokuchi - \n One bite</string>
+
+    <string name="title_activity_start">StartActivity</string>
+    <string name="g1">1. おはよう			Ohayou		Good morning</string>
+    <string name="g2">2. おはよう　ございます	Ohayou gozaimasu	Good morning (polite)</string>
+    <string name="g3">3. こんにちは		Konnichiwa		Good afternoon</string>
+    <string name="g4">4. こんばんは		Konbanwa		Good evening</string>
+    <string name="g5">5. さようなら		Sayounara		Goodbye</string>
+    <string name="g6">6. おやすなさい		Oyasuminasai	Goodnight</string>
+    <string name="g7">7. ありがとう		Arigatou		Thank you</string>
+    <string name="g8">8. ありがとうございます	Arigatou gozaimasu	Thank you (polite)</string>
+    <string name="g9">9. すみません		Sumimasen 		Excuse me / I`m sorry</string>
+    <string name="g10">10. いいえ			Iie			No / Not at all</string>
+    <string name="g11">11. いってきます		Ittekimasu		I`ll go and come back</string>
+    <string name="g12">12. いってらっしゃい	Itterashai		Please go and come back</string>
+    <string name="g13">13. ただいま			Tadaima			I`m home</string>
+    <string name="g14">14. おかえりなさい		Okaerinasai		Welcome home</string>
+    <string name="g15">15. いただきます		Itadakimasu		Thank you for the meal (before eating)</string>
+    <string name="g16">16. ごちそうさま		Gochisousama	Thank you for the meal (after eating)</string>
+    <string name="g17">17. はじめまして		Hajimemashite	Nice to meet you</string>
+    <string name="g18">18. どうぞよろしく		Douzo Yoroshiku	Nice to meet you / kindly;acceptably.</string>
+
+    <string name="c1">1.では　はじめましょう dewa hajimemashouWell, let\'s begin (the lesson)</string>
+    <string name="c2">2.２６ページをあけてください 26 pe-ji wo akete kudasai Please open your book at page 26</string>
+    <string name="c3">3.いっしょういってください isshoni itte kudasai Please say it together</string>
+    <string name="c4">4.よんでください yonde kudasaiPlease read it</string>
+    <string name="c5">5.かいてください kaite kudasaiPlease write it</string>
+    <string name="c6">6.きいてください kiite kudasaiPlease listen</string>
+    <string name="c7">7.よくきいてください yoku kiite kudasai Please listen carefully</string>
+    <string name="c8">8.くりかえしてください kurikaeshite kudasaiPlease repeat it</string>
+    <string name="c9">9.ほんをみてください hon wo mite kudasaiPlease look at your book</string>
+    <string name="c10">10.ほんをみないでください hon wo minaide kudasaiPlease don\'t look at your book</string>
+    <string name="c11">11.ほんをとじてください hon wo tojite kudasaiPlease close your book</string>
+    <string name="c12">12.こたえてください kotaete kudasai	Please answer</string>
+    <string name="c13">13.もういちどいってください mouichido itte kudasaiPlease say it again</string>
+    <string name="c14">14.しつもんはありませんか？ shitsumon wa arimasenka	Do you have any question?</string>
+    <string name="c15">15.おしえてください oshiete kudasaiPlease let me know</string>
+    <string name="c16">16.もっとゆっくりいってください motto yukkuri itte kudasaiPlease say it slowly</string>
+    <string name="c17">17.もっとおおきいこえでいってください motto ookii koede itte kudasai Please say it in a louder voice</string>
+    <string name="c18">18.おぼえてください oboete kudasai Please remember</string>
+    <string name="c19">19.しずかにください shitzuka ni kudasai Please keep quiet</string>
+    <string name="c20">20.となりのひとにはなさないでください tonari no hito ni hanasanaide kudasai Please don\'t talk to the person next to you</string>
+
+    <string name="c21">21.うしろにわたしてくださいushiro ni watashite kudasai \Please pass this to the back</string>
+    <string name="c22">22.テストのかみをまえにわたしてください \tesuto no kami wo mae ni watashitekudasai\Please pass the test paper to the front</string>
+    <string name="c23">23.いそいで　ください isoide kudasai Please hurry up</string>
+    <string name="c24">24.あしたちこくしないでください \ashita chikoku shinaide kudasaiPlease don\'t be late tomorrow</string>
+    <string name="c25">25.わかりましたか wakarimashitaka \Did you understand?</string>
+    <string name="c26">26.はい、わかりました hai, wakarimashita \Yes,I understood</string>
+    <string name="c27">27.いいえ、わかりません iie, wakarimasen No, I don\'t understand</string>
+    <string name="c28">28.しっていますか shitte imasuka\ Do you know?</string>
+    <string name="c29">29.はい、しっています hai, shitte imasu  Yes, I know</string>
+    <string name="c30">30.いいえ、しりません iie, shirimasen No, I don\'t know</string>
+
+    <string name="c31">31.あしたもってきてください ashita motte kite kudasai \Please bring this tomorrow</string>
+    <string name="c32">32.ちょっと　やすみましょう chotto yasumimashouLet\'s take a short break</string>
+    <string name="c33">33.10ぷん　やすんで　ください juppun yasunde kudasai Please take a 10min break</string>
+    <string name="c34">34.がんばってください ganbatte kudasaiPlease do your best</string>
+    <string name="c35">35.では　おわります dewa owarimasu Thats all for today\'s lesson)</string>
+
+
+    <string name="adj"> i-adjectives are the adjectives ends with "i" when it modifies a noun.\n To make it the past tense, remove ending "i", and add "katta". \nTo make it negative, remove ending "i", and add "kunakatta". \nExamples: oishi i desu (It\'s delicious)  oishi katta desu (It was delicious)  oishi kunai desu (It isn\'t delicious). .</string>
+
+    <string name="trans">In Japanese, sometimes there are two types of the same verb often referred to as transitive and intransitive verbs. The difference between the two is that one verb is an action done by an active agent while the other is something that occurs without a direct agent. In English, this is sometimes expressed with the same verb, such as: “The ball dropped” vs “I dropped the ball” but in Japanese it becomes　「ボールが落ちた」 vs 「ボールを落とした」.　Sometimes, the verbs changes when translated into English such as “To put it in the box” (箱に入れる） vs “To enter the box” （箱に入る） but this is only from the differences in the languages. If you think in Japanese, intransitive and transitive verbs have the same meaning except that one indicates that someone had a direct hand in the action (direct object) while the other does not. While knowing the terminology is not important, it is important to know which is which in order to use the correct particle for the correct verb.</string>
+
+
+</resources>
